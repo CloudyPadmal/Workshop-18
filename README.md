@@ -1,2 +1,3 @@
 # Workshop 2018
-Ayubowan
+
+This workshop is only for Electronic Engineering students.
